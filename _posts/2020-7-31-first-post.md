@@ -1,5 +1,5 @@
 ---
 title: "Welcome!"
-categories: post_test
+categories: post-test
 ---
 ### Hello World!
