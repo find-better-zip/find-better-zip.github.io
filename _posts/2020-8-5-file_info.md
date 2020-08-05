@@ -29,7 +29,7 @@ get_entropy(freqList)
 
 
 
-info(file_name)
+all(file_obj)
 클래스 형태
 
 *info.byteArr
