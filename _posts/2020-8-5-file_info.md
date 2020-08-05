@@ -3,9 +3,17 @@ title: "file_info reference"
 categories: "file_info"
 ---
 ### file_info
+reference
+
 get_byteArr(file_obj)
 
 파일을 0~256 숫자들의 배열로 변환
+
+
+
+get_fileSize(byteArr)
+
+파일의 크기(바이트) 반환
 
 
 
