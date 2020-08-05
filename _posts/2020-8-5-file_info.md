@@ -1,6 +1,6 @@
 ---
-title:"file_info reference"
-categories:"file_info"
+title: "file_info reference"
+categories: "file_info"
 ---
 ###file_info
 get_byteArr(file_obj)
